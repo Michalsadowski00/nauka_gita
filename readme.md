@@ -1,5 +1,5 @@
 # nauka_gita
-#na dole jest kotek
+na dole jest kotek
 
 ~~na dole jest piesek~~
 
@@ -7,3 +7,6 @@
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+<sub> koto-osmiornica
